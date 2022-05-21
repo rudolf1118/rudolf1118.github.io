@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rudolf1118.github.io/static/css/main.51b0acdd.css",
-    "main.js": "/rudolf1118.github.io/static/js/main.0377f300.js",
-    "static/js/787.28cb0dcd.chunk.js": "/rudolf1118.github.io/static/js/787.28cb0dcd.chunk.js",
-    "static/media/cv.png": "/rudolf1118.github.io/static/media/cv.661ec826e5feedf3f57a.png",
-    "index.html": "/rudolf1118.github.io/index.html",
-    "main.51b0acdd.css.map": "/rudolf1118.github.io/static/css/main.51b0acdd.css.map",
-    "main.0377f300.js.map": "/rudolf1118.github.io/static/js/main.0377f300.js.map",
-    "787.28cb0dcd.chunk.js.map": "/rudolf1118.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.51b0acdd.css",
+    "main.js": "/static/js/main.671f3e98.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/cv.png": "/static/media/cv.661ec826e5feedf3f57a.png",
+    "index.html": "/index.html",
+    "main.51b0acdd.css.map": "/static/css/main.51b0acdd.css.map",
+    "main.671f3e98.js.map": "/static/js/main.671f3e98.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51b0acdd.css",
-    "static/js/main.0377f300.js"
+    "static/js/main.671f3e98.js"
   ]
 }
