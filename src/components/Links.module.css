@@ -25,8 +25,9 @@
     margin-bottom: -4px;
 }
 
+
 .photo {
-width:100%;
+    width:100%
 }
 
 .logo {
@@ -212,6 +213,7 @@ a:hover {
     padding-left:35%;
     margin-top: 10px;
     font-size: 30px;
+
 }
 
 .time {

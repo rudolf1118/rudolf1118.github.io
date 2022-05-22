@@ -4,6 +4,7 @@ import About from "./components/About";
 import {Route, Routes,Switch } from "react-router-dom";
 import CV from "./components/CV";
 import About1 from "./components/About1";
+import Timer from "./Timer";
 
 const App=()=>{
     return (
@@ -14,6 +15,7 @@ const App=()=>{
                         <Route path={"/home"} element={<About/>}/>
                         <Route path={"/CV"} element={<CV/>}/>
                 </Routes>
+            <Timer/>
         </div>
 
     );
