@@ -25,9 +25,9 @@
     margin-bottom: -4px;
 }
 
-
 .photo {
-    width:100%
+    width: 100%;
+    height: 900px;
 }
 
 .logo {
@@ -74,14 +74,14 @@
 .map {
     width: 70%;
     height: 450px;
-    margin-top:30px;
+    margin-top: 30px;
     margin-bottom: 50px;
     border-radius: 25px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     display: block;
-    border-color:black;
+    border-color: black;
     box-shadow: 10px 5px 5px black;
 }
 
@@ -99,16 +99,19 @@
     line-height: 1.79em;
     font-size: 14px;
 }
+
 .number1 {
     font-weight: bold;
 }
+
 .site {
     position: relative;
-    background-color:#f5f2ff ;
+    background-color: #f5f2ff;
 }
+
 .text3 {
     text-align: center;
-    margin-top:70px;
+    margin-top: 70px;
 }
 
 .texter1 {
@@ -124,11 +127,12 @@
     font-size: 20px;
     padding-bottom: 20px;
 }
-.texter3{
+
+.texter3 {
     letter-spacing: 0.5px;
-    line-spacing:30px;
+    line-spacing: 30px;
     font-size: 18px;
-    padding-bottom:10%;
+    padding-bottom: 10%;
 }
 
 .product1 {
@@ -136,6 +140,7 @@
     line-height: 1.79em;
     font-size: 14px;
 }
+
 .numberr {
     text-align: center;
     line-height: 1.875em;
@@ -144,83 +149,95 @@
     font-variant-numeric: oldstyle-nums;
     margin-bottom: 50px;
 }
+
 .numberr1 {
     font-weight: bold;
 }
+
 .links a.active {
     text-decoration: none;
 }
-.links a{
+
+.links a {
     color: black;
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: none;
     color: blue;
 }
+
 .port {
-    width:200px;
+    width: 200px;
     height: 250px;
     border-radius: 25px;
-    margin-left:auto;
+    margin-left: auto;
     margin-right: auto;
     display: block;
-    margin-top:20px;
+    margin-top: 20px;
     box-shadow: 5px 5px 5px black
 }
+
 .cv {
     padding-bottom: 8%;
 }
+
 .cv1 {
     text-align: center;
     text-align: center;
     line-height: 1.35em;
     font-size: 50px;
     letter-spacing: normal;
-    padding-top:100px;
+    padding-top: 100px;
 }
+
 .cv1small {
     text-align: center;
     line-height: 1.75em;
     font-size: 25px;
     letter-spacing: normal;
 }
+
 .cvAttr {
-    font-size:50px;
-    padding-left:2%;
-    padding-left:35%;
+    font-size: 50px;
+    padding-left: 2%;
+    padding-left: 35%;
     margin-top: -3.2%;
 
 }
+
 .company {
     width: 50px;
     height: 50px;
-    padding-left:30%;
-    margin-top:50px;
+    padding-left: 30%;
+    margin-top: 50px;
 }
 
 
 .cvAbout {
-    text-align:left;
-    line-height:1.875em;
+    text-align: left;
+    line-height: 1.875em;
     width: 20em;
-    font-size:20px;
-    padding-left:55%;
-    margin-top:-8%;
+    font-size: 20px;
+    padding-left: 55%;
+    margin-top: -8%;
     position: relative;
 }
+
 .hastiq {
-    padding-left:35%;
+    padding-left: 35%;
     margin-top: 10px;
     font-size: 30px;
 
 }
 
 .time {
-    padding-left:35%;
+    padding-left: 35%;
     margin-top: 10px;
     font-size: 25px;
 }
+
 .timer {
     font-size: 30px;
 }
